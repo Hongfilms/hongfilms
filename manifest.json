@@ -1,0 +1,44 @@
+{
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
+ "name": "3d vista_세계유산_종묘",
+ "icons": [
+  {
+   "type": "image/png",
+   "sizes": "512x512",
+   "src": "icons/icon512.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "192x192",
+   "src": "icons/icon192.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "180x180",
+   "src": "icons/icon180.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "150x150",
+   "src": "icons/icon150.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "64x64",
+   "src": "icons/icon64.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "32x32",
+   "src": "icons/icon32.png"
+  },
+  {
+   "type": "image/png",
+   "sizes": "16x16",
+   "src": "icons/icon16.png"
+  }
+ ],
+ "display": "fullscreen"
+}
