@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Noto Sans CJK KR DemiLight";
+   src: url("fonts/Noto Sans CJK KR DemiLight.eot") format("embedded-opentype"), url("fonts/Noto Sans CJK KR DemiLight.otf") format("opentype"), url("fonts/Noto Sans CJK KR DemiLight.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Noto Sans CJK KR Regular";
+   src: url("fonts/Noto Sans CJK KR Regular.eot") format("embedded-opentype"), url("fonts/Noto Sans CJK KR Regular.otf") format("opentype"), url("fonts/Noto Sans CJK KR Regular.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
