@@ -1,0 +1,62 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 관고전통시장
+
+## Skin
+
+### Tooltip
+IconButton_026A8539_0CA7_CCE7_41A1_924510F1049B.toolTip = 전체화면
+IconButton_026A8539_0CA7_CCE7_41A1_924510F1049B_mobile.toolTip = 전체화면
+IconButton_1D3952AA_0CA7_45E5_4194_C256205A3BCF.toolTip = 썸네일
+IconButton_1D3952AA_0CA7_45E5_4194_C256205A3BCF_mobile.toolTip = 썸네일
+IconButton_1DB51198_0CBC_C7A5_41A0_E16CCC93DD92.toolTip = 음악끄기
+IconButton_1DB51198_0CBC_C7A5_41A0_E16CCC93DD92_mobile.toolTip = 음악끄기
+IconButton_F9BD3C8E_EAF8_2D2A_41D3_F84B1FE7F44F.toolTip = 지도
+IconButton_F9BD3C8E_EAF8_2D2A_41D3_F84B1FE7F44F_mobile.toolTip = 지도
+
+## Media
+
+### Title
+map_16C285AF_0C63_4FFB_419F_A3CD97E22FB1.label = Map 2
+map_FE08E9B8_EAE8_7776_41EA_C58B580C4A22.label = map
+panorama_00F964C9_0D10_A1B8_4162_7136E4ACC570.label = 디씨푸드
+panorama_01A78EAD_0D10_A1F8_41A3_1BF81028661B.label = 소문난 손만두
+panorama_06F93EAE_0D10_A1F8_4184_C0FA40A7E18A.label = 입구
+panorama_E3E0156A_E8CD_2B14_41E4_E284EE0597CE.label = 지혜식품
+panorama_E3E01B59_E8CE_DF34_41E3_7306432C172B.label = 신안상회
+panorama_E3E050C7_E8CE_E91C_41EA_5B85AB3C12CD.label = 만물식품
+panorama_E3E05CA6_E8CE_D91D_41B5_7ED8420FF1DE.label = 장터주막
+panorama_E3E05FD3_E8CD_3734_41E0_D7456338DC95.label = 나무그늘
+panorama_E3E082A4_E8CF_291C_41C8_6FF433F1C000.label = 해동상회
+panorama_E3E093D5_E8CF_6F3F_41CB_629B01FA4FE1.label = 부흥상회
+panorama_E3E09E17_E8CF_593C_41D7_F49076CDCD75.label = 출구
+panorama_E3E0B6CA_E8CE_E915_41D3_B89360B87B09.label = 공원분식
+panorama_E3E0BF64_E8CF_571C_41D1_CBDFF03E4D79.label = 대명당약국
+panorama_E3E0F891_E8CF_3937_41CD_0442A5813D10.label = 협동족발
+panorama_E3E12540_E8CF_2B14_41DB_7DC3961BCF71.label = 이천정육점
+panorama_E3E159C1_E8CF_7B17_41D7_AD25270AB740.label = 힘찬장어
+panorama_E3E15B2E_E8CF_3F6C_4151_D3DD91CD1D92.label = 골드 귀금속
+panorama_E3E26148_E8CF_2B14_41CD_5323F6257B16.label = 산천청과
+panorama_E3E29779_E8CF_D7F4_41E7_07D8F7AB2EAE.label = 부산오뎅
+panorama_E3E2B35E_E8CF_EF2D_41C5_BF07545A4948.label = 협동상회
+panorama_E3E2C9B3_E8CF_DB74_41C1_C7F2BD146CE0.label = 미나리야채아줌마
+panorama_E3E2CD8F_E8CF_FB2C_41D6_79604CD3C695.label = 삼미분식
+
+## Popup
+
+### Title
+window_112224AD_0C5F_CDFF_41A2_FC95460E756E.title = 실시간 방송
+
+## Action
+
+### URL
+LinkBehaviour_122A5D8E_0DA3_BFBD_419D_39C70BC06582.source = https://gift.kakao.com/product/2204899?input_channel_id=2630
+PopupWebFrameBehaviour_00FF04EE_0D10_A178_417B_49E83A8C848C.url = https://blog.naver.com/ddmongja/221112317834
+PopupWebFrameBehaviour_112264AC_0C5F_CDFD_41A6_16571126574B.url = //www.youtube.com/embed/GoXPbGQl-uQ
+PopupWebFrameBehaviour_12B4BA17_0C65_44AB_419A_726661DDDFD1.url = https://m.store.naver.com/restaurants/389429924/tabs/menus/yogiyo/list?more=false&pcmap=1
+PopupWebFrameBehaviour_1B17B92C_0CDF_44FD_4198_FED4C0C462EB.url = //www.youtube.com/embed/0dxvMD1vr-4
