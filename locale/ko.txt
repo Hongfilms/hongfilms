@@ -1,0 +1,51 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 온장_관고전통시장
+
+## Skin
+
+### Tooltip
+IconButton_1D3952AA_0CA7_45E5_4194_C256205A3BCF.toolTip = 홍보영상
+IconButton_33ECF597_23A2_9F94_41AB_EA7FBC308DB3.toolTip = 공식 쇼핑몰
+IconButton_E9C8CE7B_FA10_2DE3_41E5_3EB474FE2FE9.toolTip = 가게 리스트
+IconButton_EF43603C_FA13_D565_41E0_CD8BA2AE3423.toolTip = 라이브 커머스
+IconButton_F9BD3C8E_EAF8_2D2A_41D3_F84B1FE7F44F.toolTip = 지도
+
+## Media
+
+### Title
+map_359E261F_23E1_9C94_41BD_A9626BED8764.label = map
+panorama_06F93EAE_0D10_A1F8_4184_C0FA40A7E18A.label = 입구
+panorama_398CCBBE_23A3_8B95_41C0_E2441D6AFA97.label = 카페구락부
+panorama_39DDC9D3_23E6_97EC_41A7_FA833131A41D.label = 명가빈대떡
+panorama_3A0A35E5_23E6_9FB4_419B_02E70CB87EBC.label = 천미분식
+panorama_E3E093D5_E8CF_6F3F_41CB_629B01FA4FE1.label = 대성축산
+panorama_E3E09E17_E8CF_593C_41D7_F49076CDCD75.label = 출구
+panorama_E3E12540_E8CF_2B14_41DB_7DC3961BCF71.label = 할매호떡
+panorama_E3E159C1_E8CF_7B17_41D7_AD25270AB740.label = 아리따미용실
+panorama_E3E15B2E_E8CF_3F6C_4151_D3DD91CD1D92.label = 형제포차
+panorama_E3E2B35E_E8CF_EF2D_41C5_BF07545A4948.label = 주천방앗간
+panorama_E3E2C9B3_E8CF_DB74_41C1_C7F2BD146CE0.label = 영천상회
+panorama_E3E2CD8F_E8CF_FB2C_41D6_79604CD3C695.label = 삼미분식
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_01D69A4C_1029_388B_41A7_8C336701A186.url = //www.youtube.com/embed/fWkEvYQ0ohA
+PopupWebFrameBehaviour_02464D7A_102A_F88F_416A_9F2D29D4C870.url = //www.youtube.com/embed/0dxvMD1vr-4
+PopupWebFrameBehaviour_3069633B_23E2_949C_41BD_95C06E7DF16E.url = //www.youtube.com/embed/VzgCMtIoAMU
+PopupWebFrameBehaviour_30B56F7C_23E7_8C94_41A3_E6722AAA5C72.url = https://smartstore.naver.com/dndnsang
+PopupWebFrameBehaviour_30D9915E_23E2_9495_41B3_52F5A26D9106.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_38A85C8B_23AE_8C73_41B4_CE573EA595D8.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_39CF4BD4_23AF_8B95_41B6_BA3985B5257A.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_39F1F743_23A2_9CEC_419C_AD7141E10EC6.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_3A31E890_23EE_F46C_4171_8D170A93173C.url = //www.youtube.com/embed/n_dyy_Ec3a0
+PopupWebFrameBehaviour_3A3E4404_23A3_BC74_41A0_E55556FED836.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_3ACDF946_23EE_94F5_41B6_E7D7EBA5F0FC.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_3ACEAD7F_23E6_8C94_41A0_611E4A83F250.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
+PopupWebFrameBehaviour_3B0C0DFF_23A1_8F94_41C1_BCE2E17C69B2.url = //www.youtube.com/embed/5Dzg8Ds3NR8?v=5Dzg8Ds3NR8&feature=youtu.be&ab_channel=%ED%91%B8%EB%94%94%EB%9E%9C%EB%93%9CFoodieLand
