@@ -1,0 +1,63 @@
+#: locale=ko
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 온장_관고전통시장
+
+## Skin
+
+### Tooltip
+IconButton_1D3952AA_0CA7_45E5_4194_C256205A3BCF.toolTip = 홍보영상
+IconButton_33ECF597_23A2_9F94_41AB_EA7FBC308DB3.toolTip = 공식 쇼핑몰
+IconButton_E9C8CE7B_FA10_2DE3_41E5_3EB474FE2FE9.toolTip = 가게 리스트
+IconButton_EF43603C_FA13_D565_41E0_CD8BA2AE3423.toolTip = 라이브 커머스
+IconButton_F9BD3C8E_EAF8_2D2A_41D3_F84B1FE7F44F.toolTip = 지도
+
+## Media
+
+### Title
+map_02A0E4E2_35BE_7FE2_419F_BD03173D87F6.label = map
+panorama_06F93EAE_0D10_A1F8_4184_C0FA40A7E18A.label = 입구
+panorama_22C6F38F_335A_7A22_41C6_76133211F476.label = 디씨푸드
+panorama_22C8511D_335A_F627_41BF_9FBBEC4D974E.label = 용인닭집1호점
+panorama_22C8AFE1_335A_4A1E_41AF_63D42A232905.label = 유인상회
+panorama_22C98D5E_335A_CE22_41C6_2E4F13B88291.label = 삼미분식1호점
+panorama_22C9F220_335A_5A1E_41C6_3A11A2F77677.label = 대명당약국
+panorama_70808B08_356E_CA2E_41BF_36F1B2F9B896.label = 강화상회
+panorama_72020CD8_3566_4E2E_41BA_5EE5297F1E09.label = 협동상회
+panorama_726A4C8B_356A_4E22_41B9_772E2F661222.label = 산청청과
+panorama_73F27DD4_356A_4E26_41C4_75B2CEE336C3.label = 용인닭집2호점
+panorama_753B2DCF_356E_4E22_41C8_C2010BDB764C.label = 건어물부흥상회
+panorama_754B4CFF_355A_4FE2_41BD_CCC6C792B156.label = 미나리 야채아줌마
+panorama_75511314_356A_5A26_41C6_FAD94C9C49F4.label = 골드귀금속
+panorama_75BE0414_3567_BE26_41C4_175689FBB04A.label = 천미분식
+panorama_7641CDC3_356E_4E22_41B2_793196B0C798.label = 온누리이불
+panorama_7672E821_356B_F61F_4195_0D265A532125.label = 웰빙왕호떡
+panorama_76953265_3566_7AE6_41CA_214F5461BC06.label = 부산오뎅
+panorama_76A31A1D_356E_4A26_41C5_F84BA4AC3CF5.label = 골목길분식
+panorama_7732BCC3_355A_4E22_41C1_E5D6F16F61C2.label = 맹순이포차
+panorama_7744D537_356E_DE62_41B3_08D3304450B0.label = 다원청과
+panorama_778FBCE7_356A_4FE3_41A8_6FC661C5C25A.label = 할매호떡
+panorama_77BA713F_356E_B662_41C7_DB63E51F4EEE.label = 카페구락부
+panorama_77D3FCAC_355A_4E66_41AD_C9EE774F6901.label = 소문난손만두
+panorama_7C1ABBCE_357E_CA22_41A1_1E12FAF5423B.label = 플레이코디
+panorama_7C717838_356A_B66D_41A8_C56B9405715B.label = 중앙슈즈
+panorama_7E0EFB0F_357D_CA22_41A8_A310416FA142.label = 명가빈대떡
+panorama_E3E093D5_E8CF_6F3F_41CB_629B01FA4FE1.label = 대성축산
+panorama_E3E09E17_E8CF_593C_41D7_F49076CDCD75.label = 출구
+panorama_E3E12540_E8CF_2B14_41DB_7DC3961BCF71.label = 이천정육점
+panorama_E3E159C1_E8CF_7B17_41D7_AD25270AB740.label = 아리따미용실
+panorama_E3E15B2E_E8CF_3F6C_4151_D3DD91CD1D92.label = 형제포차
+panorama_E3E2B35E_E8CF_EF2D_41C5_BF07545A4948.label = 주천방앗간
+panorama_E3E2C9B3_E8CF_DB74_41C1_C7F2BD146CE0.label = 영천상회
+panorama_E3E2CD8F_E8CF_FB2C_41D6_79604CD3C695.label = 삼미분식(통닭)
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_01D69A4C_1029_388B_41A7_8C336701A186.url = //www.youtube.com/embed/fWkEvYQ0ohA
+PopupWebFrameBehaviour_02464D7A_102A_F88F_416A_9F2D29D4C870.url = //www.youtube.com/embed/0dxvMD1vr-4
+PopupWebFrameBehaviour_30B56F7C_23E7_8C94_41A3_E6722AAA5C72.url = https://smartstore.naver.com/dndnsang
